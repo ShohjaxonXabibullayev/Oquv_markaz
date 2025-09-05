@@ -26,7 +26,11 @@ API orqali kurslar, o‘quvchilar, ustozlar va boshqa ma’lumotlarni boshqarish
 
 5️⃣ Virtual muhitni activlashtirish source .env/bin/activate # Linux/MacOS .env\Scripts\activate # Windows
 
-6️⃣ Kerakli kutubxonalarni o‘rnatish pip install Django pip install -r requirements.txt
+6️⃣ Kerakli kutubxonalarni o‘rnatish 
+
+pip install Django 
+
+pip install -r requirements.txt
 
 7️⃣ Serverni ishga tushirish python manage.py runserver
 
